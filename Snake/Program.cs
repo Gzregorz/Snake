@@ -112,6 +112,7 @@ namespace Snake
 
                 Thread.Sleep(50);          
             }
+            Console.ReadKey();
         }
     }
 }
