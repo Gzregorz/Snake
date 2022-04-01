@@ -1,5 +1,5 @@
 # Snake games for two players
-My version of the classic snake game written C#.
+My a simple console version of the classic snake game written C#.
 
 The game is for two players.
 # Control keybords:
